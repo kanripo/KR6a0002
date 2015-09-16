@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 七佛經
+#+DATE: 2015-08-30 19:27:44.802863
+#+PROPERTY: JUAN 0
