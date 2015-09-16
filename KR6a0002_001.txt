@@ -1,4 +1,4 @@
-#-*- mode: mandoku-view; -*-
+# -*- mode: mandoku-view; -*-
 #+DATE: 2015-08-30 19:27:44.600061
 #+TITLE: 七佛經
 #+PROPERTY: CBETA_ID T01n0002
