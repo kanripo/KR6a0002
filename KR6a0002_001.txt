@@ -9,7 +9,7 @@
 #+PROPERTY: WITNESS CBETA
 #+PROPERTY: LASTPB <pb:KR6a0002_T_001-0150a> 
 #+PROPERTY: JUAN 1
-¶
+<pb:KR6a0002_T_001-0150a> ¶
 No.2[No.1(1),Nos.2,4]¶
 
  《佛說七佛經》¶
